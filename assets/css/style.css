@@ -1,0 +1,48 @@
+section {
+	margin: 0;
+}
+
+hr{
+  border-color: #fbfcfc;
+  box-sizing:border-box;
+	border-width: 2px;
+  width:100%;  
+}
+
+.bg-main{
+  background-image: linear-gradient(to right, #92f075 , #1fbf76);
+}
+
+.bg-right{
+	background-color: rgba(255,255,255,.3);
+}
+
+.lista{
+	font-size: 13px;
+	color: #0b582c;
+}
+.flex {
+  display: flex;
+}
+
+.space-around {
+	justify-content: space-around;
+}
+
+
+
+.color {
+  color: #0b582c;
+}
+
+.color2 {
+	color: #1fbf76;
+}
+
+.color3 {
+	color: #92f075;
+}
+
+.color4 {
+	color: #180f55;
+}
