@@ -29,12 +29,43 @@ hr{
 	justify-content: space-around;
 }
 
-
-
 .color {
   color: #0b582c;
 }
 
 .card-text{
 	text-align: justify;
+	text-indent: 8ch;
 }
+.span-title-a{
+	font-size: 30px;
+}
+
+.span-title-b {
+	font-size: 20px;
+}
+.card{
+	border-color: #fbfcfc;
+}
+.card-header{
+	background-color: #fbfcfc;
+	border-color: #fbfcfc;
+}
+
+.overlined-a::first-line{
+	text-decoration: overline solid #0b582c 5px;
+}
+.overlined-b::first-line{
+	text-decoration: overline solid #1fbf76 5px;
+}
+.overlined-c::first-line{
+	text-decoration: overline solid #92f075 5px;
+}
+.overlined-d::first-line{
+	text-decoration: overline solid #180f55 5px;
+}
+
+.card-second-page{
+	background-color: #ecf1f1;
+}
+
