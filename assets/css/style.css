@@ -35,14 +35,6 @@ hr{
   color: #0b582c;
 }
 
-.color2 {
-	color: #1fbf76;
-}
-
-.color3 {
-	color: #92f075;
-}
-
-.color4 {
-	color: #180f55;
+.card-text{
+	text-align: justify;
 }
