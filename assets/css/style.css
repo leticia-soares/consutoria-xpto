@@ -132,3 +132,65 @@ hr{
 .border-duvida{
 	border-color: #849595;
 }
+
+.icon-map{
+	background-color: #ececec;
+}
+
+.icon-facebook{
+	background-color:	#1877f2 ;
+}
+
+.link-bg{
+	background-color: #ececec;
+}
+
+.icon-color{
+	color: #fbfcfc;
+}
+
+.links{
+	text-align: right;
+}
+
+.icon-youtube{
+	background-color: #ff0000;
+}
+.icon-linkedin{
+	background-color: #0077b7;
+}
+
+.icon-instagram{
+	background-image: linear-gradient(to right, #a131c4 , #ef4d5c);
+}
+
+.icon-whats{
+	background-color: #1bd741;
+}
+
+.icon-phone{
+	background-color: #8aec75;
+}
+
+.icon-at{
+	color: #cccccc;
+	background-color: #333333;
+}
+
+.link-bg-b{
+	background-color: #fbfcfc;
+}
+
+.final-card{
+	background-color: #d8e2e2;
+}
+
+.links{
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.arrow{
+	color: #bfc0c0;
+}
