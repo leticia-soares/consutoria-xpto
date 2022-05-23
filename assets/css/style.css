@@ -194,3 +194,17 @@ hr{
 .arrow{
 	color: #bfc0c0;
 }
+
+.p-footer{
+	font-size: 10px;
+	text-indent: 2ch;
+}
+
+.text-white{
+	text-decoration: none;
+	font-size: 13px;
+}
+
+.first-part{
+	border-radius: 45px;
+}
