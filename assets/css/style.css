@@ -25,6 +25,14 @@ hr{
 .bg-right{
 	background-color: rgba(255,255,255,.3);
 }
+.card-home-color{
+	background-color: rgba(255,255,255,.3);
+	border-color: rgba(255,255,255,.2);
+}
+
+.text{
+	color: #000;
+}
 
 .lista{
 	font-size: 13px;
@@ -77,7 +85,11 @@ hr{
 }
 
 .card-title-a{
-	font-size: 13px;
+	font-size: 11px;
+	text-align: justify;
+	text-indent: 5ch;
+	font-weight: bold;
+	border-color: #eef2f2;
 }
 
 .pricing-footer{
@@ -97,6 +109,11 @@ hr{
 	color: #fbfcfc;
 	background-image: linear-gradient(to right, #1fbf76 , #92f075);
 	border-radius: 35px 35px 0 0;
+}
+
+.text-orcamento{
+	font-size: 22px;
+	font-weight: bold;
 }
 
 .body-card-section3{
@@ -168,11 +185,16 @@ hr{
 .icon-linkedin{
 	background-color: #0077b7;
 }
-
+.icon-color-b{
+	color: #1fbf76;
+}
 .icon-instagram{
 	background-image: linear-gradient(to right, #a131c4 , #ef4d5c);
 }
-
+.span-orcamento{
+	font-weight: bold;
+	font-size: 14px;
+}
 .icon-whats{
 	background-color: #1bd741;
 }
