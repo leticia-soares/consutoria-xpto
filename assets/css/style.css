@@ -9,13 +9,15 @@ hr{
   width:100%;  
 }
 
+
+
 .link-a{
 	font-weight: bold;
-	color: #4d5151;
 }
 
-.link-a:hover{
-	color: #1fbf76;
+.link-a:hover {
+	font-size: 17px;
+	color: #1fbf76 !important;
 }
 
 .bg-main{
