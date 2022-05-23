@@ -146,6 +146,20 @@ hr{
 	background-image: linear-gradient(to right, #1fbf76 , #92f075);
 	border:none!important;
 }
+.style-button{
+	font-weight: bold;
+	color: #180f55;
+	border-style: none;
+	background-image: linear-gradient(to right, #1fbf76 , #92f075);
+	border-radius: 0px 25px 25px 25px;
+	box-shadow: 0px 0px 5px #333333;
+	transition: 1s;
+}
+
+.style-button:hover{
+	transition: 1s;
+	border-radius: 25px 0px 25px 25px;
+}
 
 .span-duvida{
 	font-size: 22px;
@@ -251,3 +265,17 @@ hr{
 	padding-top: 88px;
 }
 
+.reveal{
+	opacity: 0;
+	transition: 1s all ease;
+}
+
+.reveal.active{
+	opacity: 1 !important;
+}
+
+.select-box{
+	border-color: #b7c3c3;
+	border-radius: 10px;
+	border-width: 3px;
+}
