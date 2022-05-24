@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre o projeto
 
-O projeto foi desenvlvido com base no site que a empresa mandou, em forma de pdf. O prazo para ser feito foi de três dias.
+O projeto foi desenvolvido com base no site que a empresa mandou, em forma de pdf. O prazo para ser feito foi de três dias.
 
 Com base no projeto entregado, eu fiz algumas modificações, mas nada que altere drasticamente o protótipo inicial.
 
